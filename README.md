@@ -1,1 +1,1 @@
-# Intelligent-Handwritten-Digit-Identification-System-For-Computer-Applications
+The code implements a neural network for handwritten digit recognition using the MNIST dataset. It initializes and trains the network, tests its accuracy, and saves the trained model. The network has an input layer, hidden layer, and output layer, and uses gradient descent for optimization. The code uses the minimize function from scipy.optimize to train the network and saves the trained model to files Theta1.txt and Theta2.txt.
