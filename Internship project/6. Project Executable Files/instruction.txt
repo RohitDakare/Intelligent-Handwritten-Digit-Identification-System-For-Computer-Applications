@@ -1,5 +1,0 @@
-1. Execute the app.ipynb file in jupyter notebook
-2. After the execution Model.h5 dataset will be created in the folder which is a MNIST dataset
-3. Now, open the GUI.ipynb file in jupyter notebook
-4. Copy the Model.h5 path and replace it with the path given in line 8 { model = load_model(r[ path ]) } 
-5. Now, execute the GUI.ipynb
